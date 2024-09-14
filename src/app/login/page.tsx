@@ -21,7 +21,7 @@ export default function Home() {
 
 			try {
 				await login;
-				router.push("/home");
+				router.push("/quiz");
 			} catch (error) {
 				console.error("Error logging in:", error);
 			}
@@ -49,7 +49,7 @@ export default function Home() {
 						Sign In
 					</Button>
 					<p className="mt-2">
-						Don't have account?
+						Dont have account?
 						{
 							<Link href={"/signup"} className="text-blue-700 underline">
 								Sign Up

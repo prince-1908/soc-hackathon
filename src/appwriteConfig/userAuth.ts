@@ -14,6 +14,11 @@ export const Register = async (email: string, password: string, name: string | "
 
 // get User
 export const isLoggedIn = async () => {
-	const user = await account.get();
-	return user;
+    try {
+        const user = await account.get();
+        return user;
+    } catch (e) {
+        // User is not logged in or error occurred
+        return null;
+    }
 };
