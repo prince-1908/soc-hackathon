@@ -1,12 +1,14 @@
 "use client";
 
 import { Button } from "@/components/ui/button";
+import Logo from "@/components/Logo";
 
 export default function Home() {
 	return (
 		<div className="p-8">
 			<nav className="flex justify-between px-4">
-				<h1 className="text-5xl font-bold">QUIZ-UP</h1>
+				{/* <h1 className="text-5xl font-bold">QUIZ-UP</h1> */}
+				<Logo />
 				<Button className="bg-slate-800">Dashboard</Button>
 			</nav>
 			<main className=" flex flex-col justify-center items-center gap-y-10 mt-20">
