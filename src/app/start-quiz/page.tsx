@@ -1,4 +1,5 @@
 import { Button } from "@/components/ui/button";
+import Link from "next/link";
 
 export default function Home() {
     return (
@@ -35,9 +36,9 @@ export default function Home() {
                 <div>
                     Before you start the quiz you can take a small sample quiz for practice.
                 </div>
-                <Button className="border p-8 text-4xl">
+                <Link href="/quiz" className="border py-1 text-center rounded-md bg-white/5 hover:bg-white/10 transition text-4xl">
                     Start Quiz
-                </Button>
+                </Link>
                 <Button className="border  ml-auto">
                     Sample Quiz
                 </Button>
