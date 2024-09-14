@@ -1,7 +1,46 @@
-{
-    "Q": "qqqqqqqq",
-    "options": [
-        "","","",""
-    ],
-    "solution": ""
-}
+[
+    {
+        "id": 1,
+        "question": "Which programming language is known as the backbone of web development?",
+        "options": [
+            "Python",
+            "Java",
+            "JavaScript",
+            "C++"
+        ],
+        "solution": "C++"
+    },
+    {
+        "id": 2,
+        "question": "Which programming language is known as the backbone of web development?",
+        "options": [
+            "Python",
+            "Java",
+            "JavaScript",
+            "C++"
+        ],
+        "solution": "C++"
+    },
+    {
+        "id": 3,
+        "question": "Which programming language is known as the backbone of web development?",
+        "options": [
+            "Python",
+            "Java",
+            "JavaScript",
+            "C++"
+        ],
+        "solution": "C++"
+    },
+    {
+        "id": 4,
+        "question": "Which programming language is known as the backbone of web development?",
+        "options": [
+            "Python",
+            "Java",
+            "JavaScript",
+            "C++"
+        ],
+        "solution": "C++"
+    }
+]

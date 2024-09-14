@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "question": "What does HTML stand for?",
+        "options": [
+            "Hypertext Markup Language",
+            "Hightext Markup Language",
+            "Hyperlink and Text Markup Language",
+            "Hypertext Machine Language"
+        ],
+        "solution": "Hypertext Markup Language"
+    },
+    {
+        "id": 2,
+        "question": "Which tag is used to create a hyperlink in HTML?",
+        "options": [
+            "<link>",
+            "<a>",
+            "<href>",
+            "<url>"
+        ],
+        "solution": "<a>"
+    },
+    {
+        "id": 3,
+        "question": "What does CSS stand for?",
+        "options": [
+            "Cascading Style Sheets",
+            "Computer Style Sheets",
+            "Creative Style Sheets",
+            "Colorful Style Sheets"
+        ],
+        "solution": "Cascading Style Sheets"
+    },
+    {
+        "id": 4,
+        "question": "Which property is used to change the background color in CSS?",
+        "options": [
+            "color",
+            "background-color",
+            "bgcolor",
+            "background"
+        ],
+        "solution": "background-color"
+    },
+    {
+        "id": 5,
+        "question": "What is the correct syntax for referring to an external script called 'script.js' in HTML?",
+        "options": [
+            "<script href='script.js'>",
+            "<script src='script.js'>",
+            "<script ref='script.js'>",
+            "<script name='script.js'>"
+        ],
+        "solution": "<script src='script.js'>"
+    },
+    {
+        "id": 6,
+        "question": "Which HTML element is used to define important text?",
+        "options": [
+            "<strong>",
+            "<b>",
+            "<important>",
+            "<i>"
+        ],
+        "solution": "<strong>"
+    },
+    {
+        "id": 7,
+        "question": "Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?",
+        "options": [
+            "alt",
+            "src",
+            "title",
+            "href"
+        ],
+        "solution": "alt"
+    },
+    {
+        "id": 8,
+        "question": "What is the default value of the 'position' property in CSS?",
+        "options": [
+            "relative",
+            "absolute",
+            "fixed",
+            "static"
+        ],
+        "solution": "static"
+    },
+    {
+        "id": 9,
+        "question": "What does DOM stand for?",
+        "options": [
+            "Document Object Model",
+            "Data Object Model",
+            "Document Operations Model",
+            "Data Operations Model"
+        ],
+        "solution": "Document Object Model"
+    },
+    {
+        "id": 10,
+        "question": "Which method is used to select an element by its ID in JavaScript?",
+        "options": [
+            "getElementById",
+            "querySelector",
+            "selectById",
+            "getById"
+        ],
+        "solution": "getElementById"
+    },
+    {
+        "id": 11,
+        "question": "Which CSS property controls the text size?",
+        "options": [
+            "text-size",
+            "font-size",
+            "text-style",
+            "font-style"
+        ],
+        "solution": "font-size"
+    },
+    {
+        "id": 12,
+        "question": "What is the purpose of the 'box-sizing' property in CSS?",
+        "options": [
+            "To include padding and border in the element's total width and height",
+            "To set the width of the box",
+            "To define the box's border style",
+            "To set the box's margin"
+        ],
+        "solution": "To include padding and border in the element's total width and height"
+    },
+    {
+        "id": 13,
+        "question": "What is a CSS preprocessor?",
+        "options": [
+            "A tool that compiles CSS from a more dynamic language like Sass or LESS",
+            "A program that generates CSS code automatically",
+            "A script that styles HTML documents",
+            "A CSS framework"
+        ],
+        "solution": "A tool that compiles CSS from a more dynamic language like Sass or LESS"
+    },
+    {
+        "id": 14,
+        "question": "Which HTML element is used to define a list of items?",
+        "options": [
+            "<ol>",
+            "<ul>",
+            "<li>",
+            "<list>"
+        ],
+        "solution": "<ol>"
+    },
+    {
+        "id": 15,
+        "question": "What is AJAX used for in web development?",
+        "options": [
+            "Asynchronous JavaScript and XML for updating web pages asynchronously",
+            "A way to make JavaScript synchronous",
+            "A JavaScript library for animations",
+            "A CSS framework"
+        ],
+        "solution": "Asynchronous JavaScript and XML for updating web pages asynchronously"
+    },
+    {
+        "id": 16,
+        "question": "Which HTML5 element represents a navigation menu?",
+        "options": [
+            "<nav>",
+            "<menu>",
+            "<ul>",
+            "<navmenu>"
+        ],
+        "solution": "<nav>"
+    },
+    {
+        "id": 17,
+        "question": "Which JavaScript method is used to add a new item to the end of an array?",
+        "options": [
+            "push",
+            "pop",
+            "shift",
+            "unshift"
+        ],
+        "solution": "push"
+    },
+    {
+        "id": 18,
+        "question": "Which CSS property is used to change the font of an element?",
+        "options": [
+            "font-family",
+            "font-style",
+            "font-weight",
+            "text-font"
+        ],
+        "solution": "font-family"
+    },
+    {
+        "id": 19,
+        "question": "What is the purpose of the 'z-index' property in CSS?",
+        "options": [
+            "To control the stacking order of elements",
+            "To set the size of an element",
+            "To define the element's z-axis position",
+            "To specify the border width"
+        ],
+        "solution": "To control the stacking order of elements"
+    },
+    {
+        "id": 20,
+        "question": "What is the difference between '=='' and '===' in JavaScript?",
+        "options": [
+            "== compares values and type, while === only compares values",
+            "== compares values, while === compares values and type",
+            "Both compare values and type",
+            "Both compare only values"
+        ],
+        "solution": "== compares values, while === compares values and type"
+    }
+]
